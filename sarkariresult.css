@@ -1,0 +1,152 @@
+
+#outer1 {
+    height: 250px;
+    width: 1200px;
+    background-color: rgba(174, 6, 6, 0.813);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    margin-left: 300px;
+    
+}
+
+   
+    
+
+#logo{
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border-radius: 80%;
+    border: 2px solid black;
+}
+ul li {
+   
+    line-height: 60px;
+    list-style-type: none;
+    float: left;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 60px;
+    width: 145px;
+    margin-left: 5px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+li:hover {
+    color: #55e617;
+  }
+
+ul{
+    margin-left: 250px;
+}
+.inner1{
+
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+h4{
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+h6{
+    text-align: center;
+   color: aqua;
+   padding-bottom: 100px;
+}
+
+/* #marquee1{max-width: 1010px; width:auto;} */
+
+#ss{
+    font-size: 50px;
+    line-height: 200px;
+
+}
+
+/* CSS for footer section */
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    /* margin: 0 auto; */
+  }
+  
+  .footer-content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .footer-col {
+    width: 25%;
+    padding: 10px;
+  }
+  
+  .footer-col h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-col a {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .footer-col a:hover {
+    color: #e62117;
+  }
+  
+  .col-3-display {
+    column-count: 3;
+    column-gap: 15px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  .content_area{
+    border: 1px solid red;
+    width: 1200px;
+  }
+  h2{
+    background-color:rgba(174, 6, 6, 0.813);;
+    color: #f2f2f2;
+    height: 50px;
+    width:1200px;
+    line-height: 50px;
+  }
+  h5{
+    font-size: 50px;
+    text-transform: uppercase;
+    
+  }
+  h6{
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #abc{
+    text-transform: uppercase;
+    font-size: 55px;
+    padding-top: 80px;
+    font-weight: bold;
+  }
